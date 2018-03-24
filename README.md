@@ -16,7 +16,7 @@ Because I'm doing these for fun in my free time and I often work on several proj
 
 | Wood        |      Subject               | Timeframe      | Comments        |
 |-------------|----------------------------|----------------| ----------------|
-|[Live Edge Basswood](basswoodman.com)|Bird|                |
+|[Live Edge Basswood](http://basswoodman.com)|Bird|                |
 | Red Oak     | Cardinal                   |                |
 | Walnut      | Elephant                   |                |
 | Basswood    | Cardinal                   |                | Driftwood base  |
